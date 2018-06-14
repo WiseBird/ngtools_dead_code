@@ -1,0 +1,1 @@
+Repo contains reproduction of the issue when setting `compilerOptions.module` to `es6` for `ngToolsWebpack.AngularCompilerPlugin` plugin  leads to dead code not removed.
